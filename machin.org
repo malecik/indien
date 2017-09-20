@@ -1,7 +1,5 @@
-#+TITLE: essai post formation wagon
+#+TITLE: essai post formation
 
 * je prends une bière
-grosse bouteille
-* je refroidis les bières
-2 sortes
-toitou
+froide
+
