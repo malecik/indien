@@ -1,5 +1,7 @@
 #+TITLE: essai post formation
 
 * je prends une bière
-froide
+  froide en canette
+** pour accompagner ma sauce a spagatt
+  au veau
 
